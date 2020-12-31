@@ -1,3 +1,6 @@
+# 個人開発ポートフォリオ
+
+2020年から始めた個人開発のポートフォリオです。
 
 # Band Summary(β)
 [https://bandsummary.com/](https://bandsummary.com/)

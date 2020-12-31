@@ -1,4 +1,7 @@
+layout: page
 title: "個人開発ポートフォリオ"
+permalink: /portfolio/index
+
 
 # Band Summary(β)
 [https://bandsummary.com/](https://bandsummary.com/)

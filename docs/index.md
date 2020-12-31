@@ -1,5 +1,5 @@
 # Band Summary(β)
-https://bandsummary.com/
+[https://bandsummary.com/](https://bandsummary.com/)
 
 <img src="./images/bandsummary.png" alt="">
 
@@ -38,7 +38,7 @@ Oracle always free, ATP
 Oracleのクラウド上に開発環境を構築してcode-serverなりなんなりで達成したけれども、そもそも手持ちのノートPCのスペックは上々なため本当に必要ありませんでした。
 
 # Blog Book Rank
-https://bookrank.ihmdevs.com/
+[https://bookrank.ihmdevs.com/](https://bookrank.ihmdevs.com/)
 
 <img src="./images/blogbookrank.png" alt="">
 
@@ -75,7 +75,7 @@ noteのAPI情報で引っこ抜けるっぽいところを、自前でやった�
 電子書籍版と実物版が合算されていないのをどうにかしたい（収益が見込めたらやりたい、今のところとても面倒そう）
 
 # Tickets Band
-https://imikio.github.io/TicketsBand/
+[https://imikio.github.io/TicketsBand/](https://imikio.github.io/TicketsBand/)
 
 <img src="./images/ticketsband_home.jpeg" alt="" height="200"> <img src="./images/ticketsband_group.jpeg" alt="" height="200">
 
@@ -111,9 +111,3 @@ Flutter,Firebaseで世界が開けた気がします、BandSummaryで自前で�
 
 あと、Macを持っていないため、どこまでMacなしでできるかを試してみてたらついにはリリースまで行けました。  
 flutterとbitrizeに感謝です。
-
-
-# 作りかけで放置中のもの
-## Lambda+dynamodb+SNS無料枠で動くホームページ監視サービス
-htmlと応答コードのチェックしてお知らせしてくれる。
-監視周期にもよるけど月200円でも利益出そう。

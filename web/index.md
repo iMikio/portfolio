@@ -1,6 +1,8 @@
 # Band Summary(β)
-
 https://bandsummary.com/
+
+<img src="./images/bandsummary.png" alt="">
+
 
 ## どういうものか
 
@@ -37,6 +39,8 @@ Oracleのクラウド上に開発環境を構築してcode-serverなりなんな
 
 # Blog Book Rank
 https://bookrank.ihmdevs.com/
+
+<img src="./images/blogbookrank.png" alt="">
 
 ## どういうものか
 

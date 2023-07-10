@@ -3,7 +3,9 @@
 2020年から始めた個人開発のポートフォリオです。
 
 # Band Summary(β)
-[https://bandsummary.com/](https://bandsummary.com/)
+~~https://bandsummary.com/~~
+
+[https://bs.ihmdevs.com/](https://bs.ihmdevs.com/)
 
 <img src="./images/bandsummary.png" alt="">
 
